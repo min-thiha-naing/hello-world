@@ -1,3 +1,3 @@
 # hello-world
-this sentence is description :)
+this sentence is edited text :)
 LOL! this is edited
